@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/PC/PycharmProjects/mlflow/mlruns/0/2c2d98c58f9d4874883ca3892f4a9ef2/artifacts
+deleted_time: 1723564351737
+end_time: 1723564068637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2c2d98c58f9d4874883ca3892f4a9ef2
+run_name: XGBoost
+run_uuid: 2c2d98c58f9d4874883ca3892f4a9ef2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723564065588
+status: 3
+tags: []
+user_id: PC

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/PC/PycharmProjects/mlflow/mlruns/0/fdb6834266fc4861816148ee4f39a071/artifacts
+deleted_time: 1723564351744
+end_time: 1723564068916
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fdb6834266fc4861816148ee4f39a071
+run_name: unique-crab-904
+run_uuid: fdb6834266fc4861816148ee4f39a071
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723564054810
+status: 3
+tags: []
+user_id: PC

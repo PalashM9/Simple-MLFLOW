@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/PC/PycharmProjects/mlflow/mlruns/0/23a4e5b62a37432996d7f3806d9cdb91/artifacts
+deleted_time: 1723564351746
+end_time: 1723563928904
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 23a4e5b62a37432996d7f3806d9cdb91
+run_name: enthused-quail-996
+run_uuid: 23a4e5b62a37432996d7f3806d9cdb91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723563926056
+status: 3
+tags: []
+user_id: PC

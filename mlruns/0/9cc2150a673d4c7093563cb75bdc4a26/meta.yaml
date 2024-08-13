@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/PC/PycharmProjects/mlflow/mlruns/0/9cc2150a673d4c7093563cb75bdc4a26/artifacts
+deleted_time: 1723564351745
+end_time: 1723564061494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9cc2150a673d4c7093563cb75bdc4a26
+run_name: LinearRegression
+run_uuid: 9cc2150a673d4c7093563cb75bdc4a26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723564057715
+status: 3
+tags: []
+user_id: PC

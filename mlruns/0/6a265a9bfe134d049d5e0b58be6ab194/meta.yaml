@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/PycharmProjects/mlflow/mlruns/0/6a265a9bfe134d049d5e0b58be6ab194/artifacts
+end_time: 1723564211784
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a265a9bfe134d049d5e0b58be6ab194
+run_name: RandomForest
+run_uuid: 6a265a9bfe134d049d5e0b58be6ab194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723564208004
+status: 3
+tags: []
+user_id: PC

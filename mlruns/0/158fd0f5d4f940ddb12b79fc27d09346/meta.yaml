@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/PC/PycharmProjects/mlflow/mlruns/0/158fd0f5d4f940ddb12b79fc27d09346/artifacts
+deleted_time: 1723564351744
+end_time: 1723564031046
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 158fd0f5d4f940ddb12b79fc27d09346
+run_name: shivering-cod-561
+run_uuid: 158fd0f5d4f940ddb12b79fc27d09346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723564028012
+status: 3
+tags: []
+user_id: PC

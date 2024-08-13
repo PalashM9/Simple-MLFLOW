@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/PC/PycharmProjects/mlflow/mlruns/0/3f3815c55f7144b4bb04f7ea9a374870/artifacts
+deleted_time: 1723564351736
+end_time: 1723564173611
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3f3815c55f7144b4bb04f7ea9a374870
+run_name: gifted-sow-650
+run_uuid: 3f3815c55f7144b4bb04f7ea9a374870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723564171881
+status: 3
+tags: []
+user_id: PC

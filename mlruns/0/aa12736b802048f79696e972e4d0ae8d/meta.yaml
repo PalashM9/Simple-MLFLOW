@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/PC/PycharmProjects/mlflow/mlruns/0/aa12736b802048f79696e972e4d0ae8d/artifacts
+deleted_time: 1723564351736
+end_time: 1723564215245
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: aa12736b802048f79696e972e4d0ae8d
+run_name: smiling-goose-724
+run_uuid: aa12736b802048f79696e972e4d0ae8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723564201458
+status: 3
+tags: []
+user_id: PC
