@@ -16,7 +16,7 @@ time_series_mlflow/
 ├── train.py                      # Script for model training, hyperparameter tuning, and MLflow logging
 ├── requirements.txt              # Python dependencies required for the project
 └── README.md                     # Project description and instructions
-
+```
 ## Dataset
 
 The dataset (`time_series_data.csv`) contains 200 rows of synthetic sales revenue data, with two columns:
