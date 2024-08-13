@@ -4,6 +4,9 @@
 
 This project demonstrates time series prediction using multiple machine learning models and hyperparameter tuning, with experiments tracked using MLflow. The dataset used in this project is a synthetic sales revenue dataset spanning 200 months.
 
+![image](https://github.com/user-attachments/assets/10723651-1a51-4b83-937e-febf493d22c0)
+![image](https://github.com/user-attachments/assets/a7fc07a2-0c46-4004-976d-6fcd1563ddbe)
+
 ## Project Structure
 
 ```plaintext
